@@ -1,0 +1,25 @@
+footer {
+    background-color: black;
+    color: white;          
+    bottom: 0;
+    width: 100%;
+    height: 680px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.message-box {
+    flex-direction: column;
+    width: 30%;
+    
+}
+
+#newsletter1{
+    background-color: black;
+    
+}
+#newsletter1::placeholder {
+    color: gray; /* Change this to the desired color */
+    
+}

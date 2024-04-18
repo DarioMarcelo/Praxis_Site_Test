@@ -1,0 +1,24 @@
+header {
+    background-color: black;
+    color: white;
+    height: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+header img {
+    height: 108px;
+    width: 351px;
+}
+
+
+.nav-underline .nav-link {
+
+    color: white; /* Change this to the desired color */
+}
+
+.nav-underline .nav-link:hover {
+    color: gray; /* Change this to the desired color */
+}
